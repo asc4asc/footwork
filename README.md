@@ -12,10 +12,10 @@
 * Immer die gleiche [Beinarbeits Folge](folge) 
 
 ## Für Anfänger 
-* Kniefechten: 2 Fechter versuchen sich auf einer Linie gegenseitig mit den Händen an den Knien zu berühren, ohne selber einen Treffer einzustecken. Dabei sind nur Fechtschritte erlaubt. 
+* **Kniefechten:** 2 Fechter versuchen sich auf einer Linie gegenseitig mit den Händen an den Knien zu berühren, ohne selber einen Treffer einzustecken. Dabei sind nur Fechtschritte erlaubt. 
 
 ## Für Forteschrittene
-* Übungen mit Tennisbällen:  
+* **Übungen mit Tennisbällen:**  
   * Mit Stößen einen Tennisball auf ein Ziel hin bewegen.
   * Tennisbälle im Ausfall fangen. Ball kommt von vorne oder von hinten....
   * Tennisball am Band. Oder zwei an zwei Bändern, oder mit Stoßkissen.
