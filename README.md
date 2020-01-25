@@ -3,13 +3,14 @@
 * [Beinarbeit Demo Teil 2](https://www.youtube.com/watch?v=BfCmxDN5qXA)
 
 ## Training:
+* Beinarbeit auf ansagen.
+* Immer die gleiche [Beinarbeits Folge](folge) 
 * [Beinarbeit auf Signale](https://www.youtube.com/watch?v=l6AWEmhbKq4&list=PLiw77fdUd29GVPsIUFwCJsIByVvn9i2iD&index=8)
+* [Mensur halten](mensurhalten)
 * [Spiegel](spiegel)
 * [Simon sagt](simon)
 * [Klopfen](klopfen)
-* [Mensur halten](mensurhalten)
 * [Linien](linien)
-* Immer die gleiche [Beinarbeits Folge](folge) 
 
 ## Für Anfänger 
 * **Kniefechten:** 2 Fechter versuchen sich auf einer Linie gegenseitig mit den Händen an den Knien zu berühren, ohne selber einen Treffer einzustecken. Dabei sind nur Fechtschritte erlaubt. 
