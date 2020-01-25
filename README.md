@@ -4,12 +4,12 @@
 
 ## Training:
 * [Beinarbeit auf Signale](https://www.youtube.com/watch?v=l6AWEmhbKq4&list=PLiw77fdUd29GVPsIUFwCJsIByVvn9i2iD&index=8)
-* Spiegel
-* Simon sagt
+* [Spiegel](spiegel)
+* [Simon sagt](simon)
 * [Klopfen](klopfen)
 * [Mensur halten](mensurhalten)
 * [Linien](linien)
-* Immer die gleiche Beinarbeits Folge nach jeder Ausführung immer eine Aktion dazu nehmen.
+* Immer die gleiche [Beinarbeits Folge](folge) 
 
 ## Gut gemacht aber mehr für Säbel.
 * [Teil 1 Beinarbeitstraining zu Hause](https://www.youtube.com/watch?v=Kls9IiNQ47Y) 
