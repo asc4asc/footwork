@@ -12,7 +12,7 @@
 * Immer die gleiche [Beinarbeits Folge](folge) 
 
 ## Für Anfänger 
-* Kniefechten
+* Kniefechten: 2 Fechter versuchen sich auf einer Linie gegenseitig mit den Händen an den Knien zu berühren, ohne selber einen Treffer einzustecken. Dabei sind nur Fechtschritte erlaubt. 
 
 ## Für Forteschrittene
 * Übungen mit Tennisbällen 
