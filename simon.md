@@ -1,4 +1,4 @@
-# Simon sagt
+# Simon sagt/ Komando
 
 #### Material:
 
