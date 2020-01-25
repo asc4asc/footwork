@@ -14,7 +14,7 @@
 ## Für Anfänger 
 * **Kniefechten:** 2 Fechter versuchen sich auf einer Linie gegenseitig mit den Händen an den Knien zu berühren, ohne selber einen Treffer einzustecken. Dabei sind nur Fechtschritte erlaubt. 
 
-## Für Forteschrittene
+## Für Fortgeschrittene
 * **Übungen mit Tennisbällen:**  
   * Mit Stößen einen Tennisball am Boden auf ein Ziel hin bewegen.
   * Tennisbälle im Ausfall fangen. Ball kommt von vorne oder von hinten....
