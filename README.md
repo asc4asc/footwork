@@ -16,9 +16,9 @@
 
 ## Für Forteschrittene
 * Übungen mit Tennisbällen:  
- * Mit Stößen einen Tennisball auf ein Ziel hin bewegen.
- * Tennisbälle im Ausfall fangen. Ball kommt von vorne oder von hinten....
- * Tennisball am Band. Oder zwei an zwei Bändern, oder mit Stoßkissen.
+  * Mit Stößen einen Tennisball auf ein Ziel hin bewegen.
+  * Tennisbälle im Ausfall fangen. Ball kommt von vorne oder von hinten....
+  * Tennisball am Band. Oder zwei an zwei Bändern, oder mit Stoßkissen.
 
 ## Gut gemacht aber mehr für Säbel.
 * [Teil 1 Beinarbeitstraining zu Hause](https://www.youtube.com/watch?v=Kls9IiNQ47Y) 
