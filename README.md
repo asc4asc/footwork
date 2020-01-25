@@ -1,5 +1,3 @@
-# Beinarbeit Fechten
-
 ## Beinarbeit Anleitung
 * [Beinarbeit Demo Teil 1](https://www.youtube.com/watch?v=cnSkIA_2OTQ)
 * [Beinarbeit Demo Teil 2](https://www.youtube.com/watch?v=BfCmxDN5qXA)
@@ -9,7 +7,8 @@
 * Spiegel
 * Simon sagt
 * [Klopfen](klopfen)
-* [Mensur halten](menurhalten)
+* [Mensur halten](mensurhalten)
+* [Linien](linien)
 * Immer die gleiche Beinarbeits Folge nach jeder Ausführung immer eine Aktion dazu nehmen.
 
 ## Gut gemacht aber mehr für Säbel.
