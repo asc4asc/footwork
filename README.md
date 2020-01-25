@@ -11,6 +11,9 @@
 * [Linien](linien)
 * Immer die gleiche [Beinarbeits Folge](folge) 
 
+## Für Anfänger 
+* Kniefechten
+
 ## Gut gemacht aber mehr für Säbel.
 * [Teil 1 Beinarbeitstraining zu Hause](https://www.youtube.com/watch?v=Kls9IiNQ47Y) 
 * [Teil 2 Beinarbeitstraining zu Hause](https://www.youtube.com/watch?v=tqOIJlE_fE4)
