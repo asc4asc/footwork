@@ -16,7 +16,7 @@
 * [Teil 2 Beinarbeitstraining zu Hause](https://www.youtube.com/watch?v=tqOIJlE_fE4)
 * [Teil 3 Beinarbeitstraining zu Hause](https://www.youtube.com/watch?v=Zc616s3HdmA)
 
-
+## Idee mit dem Computer ansagen noch sehr viel Arbeit bevor man das nutzen kann.
 * [Schrittfolge einfaches Beispiel](S1/index.html)
 * [Schrittfolge Beispiel](S2/index.html)
 * [Stoßkissen Übung](S3/index.html)
