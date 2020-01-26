@@ -56,3 +56,7 @@ Anmerkung: Liste zu lang und wann besser mit Waffe kombinieren? Zum Ausfall geh√
 
 Videos:
 [Tactical Wheel](https://www.youtube.com/watch?v=yH9kjO5VMJI) [Info](http://thefencingcoach.org.uk/tfc/coaching/tactical-wheels/?LMCL=e4VpdU)
+
+[Epee](https://www.youtube.com/watch?v=eueN55alJtY)
+
+[Mario](https://www.youtube.com/watch?v=NVJBbcQU2J8)
