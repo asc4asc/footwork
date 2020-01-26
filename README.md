@@ -3,6 +3,8 @@
 ## Beinarbeit Anleitung
 * [Beinarbeit Demo Teil 1](https://www.youtube.com/watch?v=cnSkIA_2OTQ)
 * [Beinarbeit Demo Teil 2](https://www.youtube.com/watch?v=BfCmxDN5qXA)
+## Beinarbeit mit Waffe
+[Videos](https://www.youtube.com/channel/UCihu6xROo2IqEajFyeQ__ig)
 
 ## Training:
 * Beinarbeit auf ansagen.
@@ -33,6 +35,3 @@
 * [Schrittfolge einfaches Beispiel](S1/index.html)
 * [Schrittfolge Beispiel](S2/index.html)
 * [Stoßkissen Übung](S3/index.html)
-
-## Einzelne Beinarbeitsaktionen
-[Videos](https://www.youtube.com/channel/UCihu6xROo2IqEajFyeQ__ig)
