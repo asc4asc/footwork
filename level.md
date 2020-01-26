@@ -37,3 +37,16 @@ Anmerkung: Liste zu lang und wann besser mit Waffe kombinieren? Zum Ausfall geh�
 9. Nine
 
 # Körperparaden
+1. Ausweichen nach hinten.
+1. Ducken
+1. Ausweichen zur Seite ...
+
+# Klingenspiel
+1. Umgehungen (Klinge nicht nehmen lassen) Spitze bleibt bedrohend.
+1. Klingenschlag (Battuta)
+1. Oposition 
+1. Klinge nehmen
+1. Parade
+1. Zurückziehen und wieder nach vorne. 
+1. Cut over
+1. Flick
