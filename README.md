@@ -13,12 +13,14 @@
 1. Level Beinarbeit: + Sturzangriff (Flèche) 
 1. Level Beinarbeit: + Kombinationen Angriff (Ballestra,Patinando,Radoppio)
 1. Level Beinarbeit: + Drücken oder Ziehen. (pull/push) 
-1. Level Beinarbeit: + Beinarbeit in der Verteidigung. 
+1. Level Beinarbeit: + Beinarbeit in der Verteidigung. (Schritt zurück bei Parade) 
 1. Level Beinarbeit: + Variationen des Angriffs für zweite Absicht oder Finte ...
-1. Level Beinarbeit: + Sturzangriff (Flèche) als wirklicher Angriff
+1. Level Beinarbeit: + Sturzangriff (Flèche) als wirklicher Angriff. Gegen zurückweichen?
 1. Level Beinarbeit: + Variation des hinteren Fußes (Normal 1/2 Fußlängen oder komplett anziehen.) 
 1. Level Beinarbeit: + Variation des Ausfalls (verzögern.) 
 1. Level Beinarbeit: + Appell (vorderer oder hinterer Fuß)  
+
+Anmerkung: Liste zu lang und wann besser mit Waffe kombinieren?
 
 * [Beinarbeit Demo Teil 1](https://www.youtube.com/watch?v=cnSkIA_2OTQ)
 * [Beinarbeit Demo Teil 2](https://www.youtube.com/watch?v=BfCmxDN5qXA)
