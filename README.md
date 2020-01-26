@@ -20,7 +20,7 @@
 1. Level Beinarbeit: + Variation des Ausfalls (verzögern.) 
 1. Level Beinarbeit: + Appell (vorderer oder hinterer Fuß)  
 
-Anmerkung: Liste zu lang und wann besser mit Waffe kombinieren?
+Anmerkung: Liste zu lang und wann besser mit Waffe kombinieren? Zum Ausfall gehört das Arm strecken sowie der gesteckte Arm beim zurückweichen. 
 
 * [Beinarbeit Demo Teil 1](https://www.youtube.com/watch?v=cnSkIA_2OTQ)
 * [Beinarbeit Demo Teil 2](https://www.youtube.com/watch?v=BfCmxDN5qXA)
