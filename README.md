@@ -2,7 +2,7 @@
 
 ## Beinarbeit Anleitung
 1. Level Beinarbeit: Fechtstellung, (Grußstellung der Vollständigkeit halber)
-1. Level Beinarbeit: Schritte, Doppelschritte, Ausfall und zurück in die Fechtstellung.
+1. Level Beinarbeit: + Schritte, Doppelschritte, Ausfall und zurück in die Fechtstellung.
 1. Level Beinarbeit: + Variationen Schritte länge
 1. Level Beinarbeit: + Variationen Schritte tempo
 1. Level Beinarbeit: + zurück in die Fechtposition passed dazu Variationen des Ausfalls (lang,kurz)
