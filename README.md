@@ -1,13 +1,13 @@
 [Fechten in Hamm](http://www.fechten-hamm.de) [Info](https://asc4asc.github.io/fechten/)
 
 ## Beinarbeit Anleitung
-1 Level Beinarbeit: Schritte, Ausfall
-1 Level Beinarbeit: + Variationen Schritte länge
-1 Level Beinarbeit: + Variationen Schritte tempo
-1 Level Beinarbeit: + Kombinationen Schritte
-1 Level Beinarbeit: + Sprünge
-1 Level Beinarbeit: + Variationen 
-1 Level Beinarbeit: + Kombinationen Angriff
+1. Level Beinarbeit: Schritte, Ausfall
+1. Level Beinarbeit: + Variationen Schritte länge
+1. Level Beinarbeit: + Variationen Schritte tempo
+1. Level Beinarbeit: + Kombinationen Schritte
+1. Level Beinarbeit: + Sprünge
+1. Level Beinarbeit: + Variationen 
+1. Level Beinarbeit: + Kombinationen Angriff
 
 * [Beinarbeit Demo Teil 1](https://www.youtube.com/watch?v=cnSkIA_2OTQ)
 * [Beinarbeit Demo Teil 2](https://www.youtube.com/watch?v=BfCmxDN5qXA)
