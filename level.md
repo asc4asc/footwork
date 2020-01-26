@@ -68,3 +68,13 @@ Ich bin eigenlich schneller und besser im Timing als der Gegner aber er nimmt od
 
 Lösung: Besser Umgehen oder in Oktav Einladung gehen.
 
+# Merker
+Erste Verteidigung ist die Spitze und der Treffer den man macht.
+
+Die Glocke ist Dein Schild und schützt Hand und Arm.
+
+Die letzte Verteidigungs Linie ist Parade mit der Klinge.
+
+Parade ohne Riposte und Treffer ist nur in seltenen Fällen hilfreich.
+
+Bewege Dich und den Gegner um Angriffs Momente zu erzeugen. (z.B. Mensurfehler) 
