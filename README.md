@@ -25,7 +25,7 @@
 * **Übungen mit Tennisbällen:**  
   * Mit Stößen einen Tennisball am Boden auf ein Ziel hin bewegen.
   * Tennisbälle im Ausfall fangen. Ball kommt von vorne oder von hinten....
-  * Tennisball am Band. Oder zwei an zwei Bändern, oder mit Stoßkissen.
+  * Tennisball am Band. Oder zwei an zwei Bändern, oder mit Stoßkissen. [Video](https://www.youtube.com/watch?v=_P2R9BvAj-4)
   * Tennisbälle treffen mit Ausfall die zugeworfen werden. (Werfer sollte großen Abstand haben oder seitlich stehen, oder komplette Fechtkleidung.
 
 ## Gut gemacht aber mehr für Säbel.
