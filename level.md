@@ -55,7 +55,7 @@ Anmerkung: Liste zu lang und wann besser mit Waffe kombinieren? Zum Ausfall geh�
 1. Coupé - Cut over
 1. Bingo, Flick
 
-Tactical Wheel: Das wenn dann aber dann das Spiel. 
+# Tactical Wheel: Das wenn dann aber dann das Spiel. 
 
 Beispiel: Wenn ich mit einem einfachen geraden Stoß sicher Punkte mache und gewinne. Gut!
 
@@ -63,9 +63,13 @@ Was kann der Gegner machen? Schneller sein! Parade! Selber angreifen......
 
 OK er trifft ich brauche eine neue Strategie..... 
 
+# Problem: 
+Ich bin eigenlich schneller und besser im Timing als der Gegner aber er nimmt oder schlägt immer meine Klinge in der Sixed.  
+
+Lösung: Besser Umgehen oder in Oktav Eiladung gehen.
+
 Videos:
 [Tactical Wheel](https://www.youtube.com/watch?v=yH9kjO5VMJI) [Info](http://thefencingcoach.org.uk/tfc/coaching/tactical-wheels/?LMCL=e4VpdU)
-
 
 [Epee](https://www.youtube.com/watch?v=eueN55alJtY)
 
