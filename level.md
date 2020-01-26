@@ -1,4 +1,4 @@
-
+# Beinarbeit
 1. Level Beinarbeit: Fechtstellung, (Grußstellung der Vollständigkeit halber)
 1. Level Beinarbeit: + Schritte, Doppelschritte, Ausfall und zurück in die Fechtstellung.
 1. Level Beinarbeit: + Variationen Schritte länge
@@ -19,3 +19,19 @@
 1. Level Beinarbeit: + Appell (vorderer oder hinterer Fuß)
 
 Anmerkung: Liste zu lang und wann besser mit Waffe kombinieren? Zum Ausfall gehört das Arm strecken sowie der gesteckte Arm beim zurückweichen.
+
+# Einladungen Stellungen
+* Sixed (terz)
+* Oktav (second)
+
+# Paraden
+1. Prim
+2. Second
+3. Terz
+4. Quart
+5. Quint
+6. Sixed
+7. Septim
+8. Oktav
+9. Nine
+
