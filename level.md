@@ -1,3 +1,10 @@
+# Videos:
+[Tactical Wheel](https://www.youtube.com/watch?v=yH9kjO5VMJI) [Info](http://thefencingcoach.org.uk/tfc/coaching/tactical-wheels/?LMCL=e4VpdU)
+
+[Epee](https://www.youtube.com/watch?v=eueN55alJtY)
+
+[Mario Bottcher](https://www.youtube.com/watch?v=mAaY404soGY) [Teil1](https://www.youtube.com/watch?v=NVJBbcQU2J8)
+
 # Beinarbeit
 1. Level Beinarbeit: Fechtstellung, (Grußstellung der Vollständigkeit halber)
 1. Level Beinarbeit: + Schritte, Doppelschritte, Ausfall und zurück in die Fechtstellung.
@@ -15,7 +22,7 @@
 1. Level Beinarbeit: + Beinarbeit in der Verteidigung. (Schritt zurück bei Parade)
 1. Level Beinarbeit: + Variationen des Angriffs für zweite Absicht oder Finte ...
 1. Level Beinarbeit: + Sturzangriff (Flèche) als wirklicher Angriff. Gegen zurückweichen? [Video](https://www.youtube.com/watch?v=771TCmbu2eA)
-1 Level Laufangriff nicht schön aber manchmal klappts. 
+1. Level Laufangriff nicht schön aber manchmal klappts. 
 
 1. Level Beinarbeit: + Variation des hinteren Fußes (Normal 1/2 Fußlängen oder komplett anziehen.)
 1. Level Beinarbeit: + Variation des Ausfalls (verzögern.)
@@ -68,9 +75,3 @@ Ich bin eigenlich schneller und besser im Timing als der Gegner aber er nimmt od
 
 Lösung: Besser Umgehen oder in Oktav Einladung gehen.
 
-Videos:
-[Tactical Wheel](https://www.youtube.com/watch?v=yH9kjO5VMJI) [Info](http://thefencingcoach.org.uk/tfc/coaching/tactical-wheels/?LMCL=e4VpdU)
-
-[Epee](https://www.youtube.com/watch?v=eueN55alJtY)
-
-[Mario Bottcher](https://www.youtube.com/watch?v=mAaY404soGY) [Teil1](https://www.youtube.com/watch?v=NVJBbcQU2J8)
