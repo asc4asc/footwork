@@ -35,3 +35,4 @@ Anmerkung: Liste zu lang und wann besser mit Waffe kombinieren? Zum Ausfall gehÃ
 8. Oktav
 9. Nine
 
+# KÃ¶rperparaden
