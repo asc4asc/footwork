@@ -6,12 +6,17 @@
 1. Level Beinarbeit: + Variationen Schritte tempo
 1. Level Beinarbeit: + Kombinationen Schritte
 1. Level Beinarbeit: + Sprünge
-1. Level Beinarbeit: + Variationen 
-1. Level Beinarbeit: + Kombinationen Angriff
+1. Level Beinarbeit: + Bouncen auch kombiniert mit Schritten ....
+1. Level Beinarbeit: + Kreuzschritte
+1. Level Beinarbeit: + Kombinationen Angriff (Ballestra,Patinando,Radoppio)
 1. Level Beinarbeit: + Drücken oder Ziehen. (pull/push) 
+1. Level Beinarbeit: + Beinarbeit in der Verteidigung. 
+1. Level Beinarbeit: + Sturzangriff (Flèche) 
+1. Level Beinarbeit: + Appell (vorderer oder hinterer Fuß)  
 
 * [Beinarbeit Demo Teil 1](https://www.youtube.com/watch?v=cnSkIA_2OTQ)
 * [Beinarbeit Demo Teil 2](https://www.youtube.com/watch?v=BfCmxDN5qXA)
+
 ## Beinarbeit mit Waffe
 [Videos](https://www.youtube.com/channel/UCihu6xROo2IqEajFyeQ__ig)
 
