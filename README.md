@@ -8,6 +8,7 @@
 1. Level Beinarbeit: + Sprünge
 1. Level Beinarbeit: + Variationen 
 1. Level Beinarbeit: + Kombinationen Angriff
+1. Level Beinarbeit: + Drücken oder Ziehen. (pull/push) 
 
 * [Beinarbeit Demo Teil 1](https://www.youtube.com/watch?v=cnSkIA_2OTQ)
 * [Beinarbeit Demo Teil 2](https://www.youtube.com/watch?v=BfCmxDN5qXA)
