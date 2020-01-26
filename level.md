@@ -9,6 +9,7 @@
 1. Level Beinarbeit: + Bouncen auch kombiniert mit Schritten ....
 1. Level Beinarbeit: + Kreuzschritte
 1. Level Beinarbeit: + Sturzangriff (Flèche)
+1. Level Beinarbeit: + Halbe Schritte, Halber Schritt vor Ausfall.
 1. Level Beinarbeit: + Kombinationen Angriff (Ballestra,Patinando,Radoppio)
 1. Level Beinarbeit: + Drücken oder Ziehen. (pull/push)
 1. Level Beinarbeit: + Beinarbeit in der Verteidigung. (Schritt zurück bei Parade)
