@@ -37,6 +37,8 @@ Anmerkung: Liste zu lang und wann besser mit Waffe kombinieren? Zum Ausfall geh√
 8. Oktav
 9. Nine
 
+[Video](https://www.youtube.com/watch?v=x8jMvm2LlwQ)
+
 # K√∂rperparaden
 1. Ausweichen nach hinten.
 1. Ducken
@@ -51,3 +53,6 @@ Anmerkung: Liste zu lang und wann besser mit Waffe kombinieren? Zum Ausfall geh√
 1. Zur√ºckziehen und wieder nach vorne - Broken time. 
 1. Coup√© - Cut over
 1. Bingo, Flick
+
+Videos:
+[Tactical Wheel](https://www.youtube.com/watch?v=yH9kjO5VMJI) [Info](http://thefencingcoach.org.uk/tfc/coaching/tactical-wheels/?LMCL=e4VpdU)
