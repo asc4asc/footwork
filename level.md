@@ -66,7 +66,7 @@ OK er trifft ich brauche eine neue Strategie.....
 # Problem: 
 Ich bin eigenlich schneller und besser im Timing als der Gegner aber er nimmt oder schlägt immer meine Klinge in der Sixed.  
 
-Lösung: Besser Umgehen oder in Oktav Eiladung gehen.
+Lösung: Besser Umgehen oder in Oktav Einladung gehen.
 
 Videos:
 [Tactical Wheel](https://www.youtube.com/watch?v=yH9kjO5VMJI) [Info](http://thefencingcoach.org.uk/tfc/coaching/tactical-wheels/?LMCL=e4VpdU)
