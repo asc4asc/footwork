@@ -14,7 +14,8 @@
 1. Level Beinarbeit: + Drücken oder Ziehen. (pull/push)
 1. Level Beinarbeit: + Beinarbeit in der Verteidigung. (Schritt zurück bei Parade)
 1. Level Beinarbeit: + Variationen des Angriffs für zweite Absicht oder Finte ...
-1. Level Beinarbeit: + Sturzangriff (Flèche) als wirklicher Angriff. Gegen zurückweichen?
+1. Level Beinarbeit: + Sturzangriff (Flèche) als wirklicher Angriff. Gegen zurückweichen? [Video](https://www.youtube.com/watch?v=771TCmbu2eA)
+
 1. Level Beinarbeit: + Variation des hinteren Fußes (Normal 1/2 Fußlängen oder komplett anziehen.)
 1. Level Beinarbeit: + Variation des Ausfalls (verzögern.)
 1. Level Beinarbeit: + Appell (vorderer oder hinterer Fuß)
