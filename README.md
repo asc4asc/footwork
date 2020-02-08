@@ -17,6 +17,11 @@
 * [Simon sagt](simon)
 * [Klopfen](klopfen)
 * [Linien](linien)
+* Ich packe meine Koffer und füge hinzu: 
+  * Schritt vor
+  * Schritt vor, Schritt vor
+  * Schritt vor, Schritt vor, Ausfall/Aufstehen
+  * ....
 
 ## Für Anfänger 
 * **Kniefechten:** 2 Fechter versuchen sich auf einer Linie gegenseitig mit den Händen an den Knien zu berühren, ohne selber einen Treffer einzustecken. Dabei sind nur Fechtschritte erlaubt. 
